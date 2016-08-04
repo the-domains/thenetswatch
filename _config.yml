@@ -1,4 +1,3 @@
-layout_spectrum: 0.8983239841181785
 typography_spectrum: 0.7567465489264578
 color:
   brandStrength: 0.3483985282946378
@@ -11,5 +10,9 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.8983239841181785
+author:
+  name: Wesley K. Alexander
+  email: wka007@gmail.com
 name: thenetswatch
 description: All things internet.  We are watching.
