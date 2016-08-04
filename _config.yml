@@ -6,9 +6,10 @@ color:
   saturation: 0.7810238543897867
   rhythmicContrast: 0.9912178239319474
   brandColors:
-    - '#F8F9FC'
-    - '#224FAA'
-    - '#A62626'
-    - '#3D588F'
-    - '#C7CAD1'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: thenetswatch
+description: All things internet.  We are watching.
