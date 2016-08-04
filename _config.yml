@@ -1,4 +1,4 @@
-typography_spectrum: 0.7567465489264578
+typography_spectrum: 0.9469065049197525
 color:
   brandStrength: 0.3483985282946378
   lightness: 0.6559481397271156
@@ -10,7 +10,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-layout_spectrum: 0.8983239841181785
+layout_spectrum: 0.10210621356964111
 author:
   name: Wesley K. Alexander
   email: wka007@gmail.com
