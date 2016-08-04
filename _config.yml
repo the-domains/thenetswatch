@@ -1,0 +1,14 @@
+layout_spectrum: 0.8983239841181785
+typography_spectrum: 0.7567465489264578
+color:
+  brandStrength: 0.3483985282946378
+  lightness: 0.6559481397271156
+  saturation: 0.7810238543897867
+  rhythmicContrast: 0.9912178239319474
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: thenetswatch
